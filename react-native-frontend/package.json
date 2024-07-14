@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "expo-av": "~14.0.6",
-    "expo-router": "^3.5.18",
-    "typescript": "~5.3.3",
-    "@types/react": "~18.2.79"
-  }
-}
